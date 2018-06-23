@@ -1,0 +1,14 @@
+{
+    "presets":["env","react","airbnb"],
+    "ignore": [
+        "node_modules"
+      ],
+    "plugins":["transform-class-properties",
+            "transform-object-rest-spread"
+        
+            // "transform-object-rest-spread",
+            // [
+            //     "transform-replace-object-assign"
+            // ]
+        ]
+}
