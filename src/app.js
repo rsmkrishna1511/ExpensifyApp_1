@@ -16,7 +16,7 @@ const store = configureStore();
 //     console.log(visibleExpense);
 // });
 
- store.dispatch(expenseActionGenerator({description:'Water Bill', amount:500}));
+// store.dispatch(expenseActionGenerator({description:'Water Bill', amount:500}));
 // store.dispatch(expenseActionGenerator({description:'Gas Bill', amount:1000}));
 // store.dispatch(expenseActionGenerator({description:'Rent', amount:10500, createdAt:3823}));
 // store.dispatch(expenseActionGenerator({description:'Car Maintance', amount:4674, createdAt:2000}));
